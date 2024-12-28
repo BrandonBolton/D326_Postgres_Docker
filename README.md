@@ -1,6 +1,8 @@
-# PostgreSQL Docker Setup
+# D326 - Advanced Data Management - Postgres in Docker
 
-This guide will help you set up a PostgreSQL server using Docker.
+This guide offers a straightforward method to run the D326 database locally using Docker. The dataset can be found [here](https://neon.tech/postgresql/postgresql-getting-started/postgresql-sample-database). Upon comparison, it appears to be identical to the dataset provided by WGU.
+
+This solution was created due to difficulties encountered when running the virtual environment on a Mac. Using Docker simplifies the setup process and ensures compatibility across different systems.
 
 ## Prerequisites
 
